@@ -1,4 +1,4 @@
-
+       
 #define LDR_PIN 34
 
 void setup() {

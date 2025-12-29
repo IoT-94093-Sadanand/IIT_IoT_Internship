@@ -1,4 +1,4 @@
-#include <WiFi.h>
+  #include <WiFi.h>
 
 #define MQ2_ANALOG_PIN 34  // Analog pin
 #define MQ2_DIGITAL_PIN 15 // Digital pin
